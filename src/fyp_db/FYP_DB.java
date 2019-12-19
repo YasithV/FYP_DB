@@ -16,7 +16,7 @@ public class FYP_DB {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Imantha");
+        System.out.println("Imantha-Vin");
     }
     
 }
